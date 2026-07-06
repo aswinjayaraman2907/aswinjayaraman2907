@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin J</h1>
 
 <h3 align="center">
-Passionate Java Full Stack Developer
+🌱 Learning. Building. Growing.
 </h3>
 
 ---
