@@ -11,14 +11,11 @@ Passionate Java Full Stack Developer
 - 🌱 I'm currently learning:
   - Java
   - Spring Boot
-  - React.js
   - MySQL
 
 - 💬 Ask me about:
   - Java
   - Full Stack Development
-  - Spring Boot
-  - React
 
 - 📫 Reach me:
   - LinkedIn
@@ -52,7 +49,7 @@ Passionate Java Full Stack Developer
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aswin-j-6176b2302)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/aswinjayaraman2907)
 
