@@ -46,9 +46,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinjayaraman2907&layout=compact&theme=tokyonight"/>
 <p>
 ## 🔥 GitHub Streakx
-## 📈 Contribution Graph
+## 💻 Tech Stack
 
-[![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aswinjayaraman2907&theme=tokyo-night)](https://github.com/aswinjayaraman2907)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,vscode&perline=5" />
+</p>
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aswin-j-6176b2302)
