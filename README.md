@@ -47,13 +47,10 @@
 <p>
 ## 🔥 GitHub Streakx
 ## ⚡ Coding Activity
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Aswin+J;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80" />
+</p>
 
-```text
-Java         ████████████████ 95%
-Spring Boot  ██████████████░░ 90%
-React        ███████████░░░░░ 75%
-MySQL        █████████████░░░ 85%
-Git          ██████████████░░ 90%
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aswin-j-6176b2302)
