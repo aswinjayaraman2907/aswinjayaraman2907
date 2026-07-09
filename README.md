@@ -45,22 +45,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinjayaraman2907&layout=compact&theme=tokyonight"/>
 <p>
-## 🔥 GitHub Streak
-## 📊 GitHub Stats
+## 🔥 GitHub Streakx
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswinjayaraman2907&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinjayaraman2907&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinjayaraman2907&layout=compact&theme=tokyonight" />
-</p>
----
-
+[![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aswinjayaraman2907&theme=tokyo-night)](https://github.com/aswinjayaraman2907)
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aswin-j-6176b2302)
