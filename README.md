@@ -46,11 +46,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinjayaraman2907&layout=compact&theme=tokyonight"/>
 <p>
 ## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aswinjayaraman2907&theme=tokyonight" />
-<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aswinjayaraman2907&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinjayaraman2907&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinjayaraman2907&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🌐 Connect With Me
