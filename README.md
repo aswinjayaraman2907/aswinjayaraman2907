@@ -46,11 +46,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinjayaraman2907&layout=compact&theme=tokyonight"/>
 <p>
 ## 🔥 GitHub Streakx
-## 🐍 Contribution Snake
+## ⚡ Coding Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aswinjayaraman2907/aswinjayaraman2907/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+```text
+Java         ████████████████ 95%
+Spring Boot  ██████████████░░ 90%
+React        ███████████░░░░░ 75%
+MySQL        █████████████░░░ 85%
+Git          ██████████████░░ 90%
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aswin-j-6176b2302)
